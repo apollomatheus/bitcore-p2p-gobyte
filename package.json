@@ -49,16 +49,16 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/gobytecoin/bitcore-p2p-gobyte.git"
+    "url": "https://github.com/apollomatheus/bitcore-p2p-gobyte.git"
   },
   "dependencies": {
-    "bitcore-lib-gobyte": "gobytecoin/bitcore-lib-gobyte",
+    "bitcore-lib-gobyte": "apollomatheus/bitcore-lib-gobyte",
     "bloom-filter": "^0.2.0",
     "node-buffers": "^0.1.1",
     "socks5-client": "^0.3.6"
   },
   "devDependencies": {
-    "bitcore-build-gobyte": "gobytecoin/bitcore-build-gobyte",
+    "bitcore-build-gobyte": "apollomatheus/bitcore-build-gobyte",
     "brfs": "^1.2.0",
     "chai": "~1.10.0",
     "gulp": "^3.8.10",
